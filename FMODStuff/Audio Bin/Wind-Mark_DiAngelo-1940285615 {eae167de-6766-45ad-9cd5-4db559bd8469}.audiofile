@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.03.01">
+    <object class="AudioFile" id="{eae167de-6766-45ad-9cd5-4db559bd8469}">
+        <property name="frequencyInKHz">
+            <value>44.1</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>122.966303854875</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Wind-Mark_DiAngelo-1940285615 {ad1eae92-92a2-487f-bf4b-debfdf71b21b}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{789b074b-35cd-47d5-ab81-d754e043e6c1}</destination>
+        </relationship>
+    </object>
+</objects>

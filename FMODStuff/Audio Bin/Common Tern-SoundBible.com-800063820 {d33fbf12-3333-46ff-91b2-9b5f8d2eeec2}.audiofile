@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.03.01">
+    <object class="AudioFile" id="{d33fbf12-3333-46ff-91b2-9b5f8d2eeec2}">
+        <property name="frequencyInKHz">
+            <value>22.05</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.597369614512472</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Common Tern-SoundBible.com-800063820 {c38bb0a1-a936-4673-a7e3-a17d19416b2c}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{789b074b-35cd-47d5-ab81-d754e043e6c1}</destination>
+        </relationship>
+    </object>
+</objects>
