@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.03.01">
+    <object class="MasterTagFolder" id="{5ef326c8-e3ce-4677-93ab-080f5c1064cf}">
+        <property name="name">
+            <value>Master</value>
+        </property>
+        <relationship name="items">
+            <destination>{ef52ddeb-a910-4c9b-abce-8bc24c03e5f7}</destination>
+            <destination>{5a509a72-3625-4ff0-a155-aecf1d3c9377}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{ef52ddeb-a910-4c9b-abce-8bc24c03e5f7}">
+        <property name="name">
+            <value>lower</value>
+        </property>
+        <relationship name="folder">
+            <destination>{5ef326c8-e3ce-4677-93ab-080f5c1064cf}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{5a509a72-3625-4ff0-a155-aecf1d3c9377}">
+        <property name="name">
+            <value>chirps</value>
+        </property>
+        <relationship name="folder">
+            <destination>{5ef326c8-e3ce-4677-93ab-080f5c1064cf}</destination>
+        </relationship>
+    </object>
+</objects>

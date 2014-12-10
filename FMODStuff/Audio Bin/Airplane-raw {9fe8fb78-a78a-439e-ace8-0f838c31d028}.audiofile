@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.03.01">
+    <object class="AudioFile" id="{9fe8fb78-a78a-439e-ace8-0f838c31d028}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>17.384125</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Airplane-raw {2057f6a8-61ac-4a41-8ba8-cf76a9e47f64}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{789b074b-35cd-47d5-ab81-d754e043e6c1}</destination>
+        </relationship>
+    </object>
+</objects>
